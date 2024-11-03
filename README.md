@@ -1,4 +1,4 @@
-### **Lesson 6: Creating Personalized Shapes with SVG**
+### **Lesson 6: Shapes with SVG**
 
 #### **Objective:**  
 Students will learn to create and customize basic SVG shapes by creating a new HTML file, `shapes.html`, and using different attributes to personalize their designs.
